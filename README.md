@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
 | Jupyter Notebook | Info
 | --- | --- |
-[docto_gpt_text_webui_saturncloud](docto_gpt_text_webui_saturncloud.md) |
+[docto_gpt_text_webui_saturncloud](docto_gpt_text_webui_saturncloud.md) | [llSourcell/medllama2_7b](https://huggingface.co/llSourcell/medllama2_7b)
 
 #### Jupyter Notebook Without Tunnel (medllama2_7b) (Thanks to @tcmaps for the info ❤)
 ```py
