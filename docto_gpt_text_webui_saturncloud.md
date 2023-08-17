@@ -13,5 +13,5 @@
 !aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/4bit/medllama2_7b_s/resolve/main/tokenizer.model -d /home/jovyan/workspace/text-generation-webui/models/medllama2_7b -o tokenizer.model
 
 %cd /home/jovyan/workspace/text-generation-webui
-!python server.py --listen-port 8000 --model /home/jovyan/workspace/text-generation-webui/models/medllama2_7b
+!python server.py --listen --listen-port 8000 --model /home/jovyan/workspace/text-generation-webui/models/medllama2_7b
 ```
