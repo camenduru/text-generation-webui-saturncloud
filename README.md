@@ -26,3 +26,14 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 %cd /home/jovyan/workspace/text-generation-webui
 !python server.py --listen --listen-port 8000 --model /home/jovyan/workspace/text-generation-webui/models/medllama2_7b
 ```
+
+![Screenshot 2023-08-09 021455](https://github.com/camenduru/stable-diffusion-webui-saturncloud/assets/54370274/10e001b9-397c-45b6-851d-b4dc67612ee9)
+
+## Text Generation Web UI
+https://github.com/oobabooga/text-generation-webui (Thanks to @oobabooga ❤)
+
+## Documentation
+https://github.com/oobabooga/text-generation-webui/tree/main/docs
+
+## Special Thanks
+Thanks to @nagikoru for the suggestion ❤
