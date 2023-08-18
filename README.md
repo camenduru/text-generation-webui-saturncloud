@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 ```
 
 ![Screenshot 2023-08-09 021455](https://github.com/camenduru/stable-diffusion-webui-saturncloud/assets/54370274/10e001b9-397c-45b6-851d-b4dc67612ee9)
+![40GB](https://github.com/camenduru/fooocus-saturncloud/assets/54370274/26291759-fa0b-4041-8a62-25c234695770)
 
 ## Text Generation Web UI
 https://github.com/oobabooga/text-generation-webui (Thanks to @oobabooga ❤)
