@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 | --- | --- |
 [docto_gpt_text_webui_saturncloud](docto_gpt_text_webui_saturncloud.md) | [llSourcell/medllama2_7b](https://huggingface.co/llSourcell/medllama2_7b)
 
-#### Jupyter Notebook Without Tunnel (medllama2_7b) (Thanks to @tcmaps for the info ❤)
+#### Jupyter Notebook (medllama2_7b)
 ```py
 %cd /home/jovyan/workspace
 !git clone -b v2.1 https://github.com/camenduru/text-generation-webui
@@ -38,6 +38,3 @@ https://github.com/oobabooga/text-generation-webui (Thanks to @oobabooga ❤)
 
 ## Documentation
 https://github.com/oobabooga/text-generation-webui/tree/main/docs
-
-## Special Thanks
-Thanks to @nagikoru for the suggestion ❤
